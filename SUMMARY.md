@@ -1,16 +1,25 @@
 # Summary
 
-* [click me docs](./pages/click-me-docs.md)
-* [click mechanics](./pages/click-mechanics.md)
-* [contracts](./pages/contracts.md)
-* [fees guide](./pages/fees-guide.md)
-* [frequently asked questions](./pages/frequently-asked-questions.md)
-* [how to play](./pages/how-to-play.md)
-* [how to stake](./pages/how-to-stake.md)
-* [lockup periods](./pages/lockup-periods.md)
-* [overview](./pages/overview.md)
-* [rewards](./pages/rewards.md)
-* [roi calcuations](./pages/roi-calcuations.md)
-* [tokenomics](./pages/tokenomics.md)
-* [troubleshooting](./pages/troubleshooting.md)
-* [wallet setup](./pages/wallet-setup.md)
+* [Introduction](README.md)
+
+## Game Mechanics
+* [Game Overview](pages/overview.md)
+* [How to Play](pages/how-to-play.md)
+* [Click Mechanics](pages/click-mechanics.md)
+* [Fee Guide](pages/fees-guide.md)
+* [ROI Calculation](pages/roi-calcuations.md)
+
+## Staking System
+* [Staking Overview](pages/staking-system/overview.md)
+* [How to Stake](pages/how-to-stake.md)
+* [Staking Rewards](pages/rewards.md)
+* [Lockup Periods](pages/lockup-periods.md)
+
+## Technical Details
+* [Contract Addresses](pages/contracts.md)
+* [Tokenomics](pages/tokenomics.md)
+
+## User Guides
+* [Wallet Setup](pages/wallet-setup.md)
+* [Frequently Asked Questions](pages/frequently-asked-questions.md)
+* [Troubleshooting](pages/troubleshooting.md)
