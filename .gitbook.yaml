@@ -1,4 +1,0 @@
-root: .
-structure:
-  readme: ./click-me-docs.md
-  summary: SUMMARY.md
