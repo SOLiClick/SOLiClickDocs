@@ -1,0 +1,5 @@
+node_modules/
+_book/
+.gitbook/
+.DS_Store
+npm-debug.log
