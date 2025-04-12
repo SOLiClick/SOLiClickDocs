@@ -7,7 +7,7 @@
 * [How to Play](pages/how-to-play.md)
 * [Click Mechanics](pages/click-mechanics.md)
 * [Fee Guide](pages/fees-guide.md)
-* [ROI Calculation](pages/roi-calcuations.md)
+* [ROI Calculation](pages/roi-calculations.md)
 
 ## Staking System
 * [Staking Overview](pages/staking-system/overview.md)
